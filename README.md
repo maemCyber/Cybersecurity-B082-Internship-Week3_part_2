@@ -26,7 +26,7 @@ Understand the password-recovery workflow step by step:
 ---
 
 # DOWNLOAD THE LOCKED PDF :
- `https://networkwalks.com/project-task-lab-password-cracking-with-networkwalks-tools/  `
+ https://networkwalks.com/project-task-lab-password-cracking-with-networkwalks-tools/  
 ## 🛠️ TOOLS
 
 ### HASH CALCULATOR
@@ -34,14 +34,14 @@ Understand the password-recovery workflow step by step:
 Use this tool to extract the hash from the locked PDF.
 
 **LINK:**  
-`https://networkwalks.com/hash-calculator/ ` 
+https://networkwalks.com/hash-calculator/  
 
 ### PASSWORD CRACKER
 
 Use this tool to process the extracted hash.
 
 **LINK:**  
-`https://networkwalks.com/password-cracker/  `
+https://networkwalks.com/password-cracker/  
 
 ---
 
