@@ -1,0 +1,6 @@
+# Screenshots / local lab outputs
+*.tmp
+*.log
+*.bak
+.DS_Store
+Thumbs.db
